@@ -37,10 +37,10 @@ ul{
     font-size: 20px;
 }
 .header__content{
-    background: purple;
-    height: 800px;
+    background: green;
+    height: 400px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     flex-direction: column;
     align-items: center;
     gap: 30px;
